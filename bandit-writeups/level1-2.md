@@ -5,7 +5,7 @@ The goal of this level is to find the password in the `-` file.
 
 ---
 
-## 🔹 Get to level 2
+## 🔹 Get to level 1
 1. Open a terminal.  
 2. Connect using SSH:  
    ```bash
