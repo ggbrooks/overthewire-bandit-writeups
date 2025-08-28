@@ -5,7 +5,7 @@ The goal of this level is to find the password that is stored in the only human-
 
 ---
 
-## 🔹 Get to level 3
+## 🔹 Get to level 4
 1. Open a terminal.  
 2. Connect using SSH:  
    ```bash
