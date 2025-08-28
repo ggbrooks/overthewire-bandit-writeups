@@ -27,7 +27,7 @@ The goal of this level is to find the password that is stored in the only human-
 3. Typed:
    ```bash
    file ./*
-* this checks each file and tells me what type it is
+* this checks all of the files and tells me what type it is
 * all of them said `data` except for one
 * one said `ASCII text`, which tells us this is the only human-readable file: `-file07'
 
@@ -37,6 +37,6 @@ The goal of this level is to find the password that is stored in the only human-
   * `cat` shows the contents of a file
   * I used `./` before the name because opening a file name starting with `-` can be problematic. This is because the dash (-) is commonly used to introduce command-line flags or options.
   * `./` is important to use to tell the shell that the file is located in the current working directory
-  * this gave me the contents of the file showing me the password I needed
+  * this gave me the contents of the file, showing me the password I needed
 4. Level 5 password:
 `4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw`
